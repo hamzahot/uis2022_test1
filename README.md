@@ -1,1 +1,1 @@
-# uis2022_test1
+ovdje opisujemo kako radi projekat
